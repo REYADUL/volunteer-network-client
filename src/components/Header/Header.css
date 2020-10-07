@@ -1,0 +1,38 @@
+.banner{
+    position: absolute;
+}
+
+.navItem{
+    position: relative;
+}
+
+.nav-link{
+   
+    font-size: 10pt;
+}
+
+.search-box{
+    margin-top: 15%;
+    text-align: center;
+    border: none;
+}
+
+
+.search-box form input{
+    border-radius: 5px 0 0 5px;
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+
+.search-box form {
+    display:flex;
+    justify-content:center;
+}
+
+.search-button{    
+    border-radius: 5px;
+}
+
+.row{
+    margin-top: 100px;
+}

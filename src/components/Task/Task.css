@@ -1,0 +1,21 @@
+.eventList img{
+    height: 300px;
+}
+
+.eventName{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #3F90FC;
+    height:60px;
+    border-radius:  10px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
+}
+
+.eventName h5{
+    color: white;
+}

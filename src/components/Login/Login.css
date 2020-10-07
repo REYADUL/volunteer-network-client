@@ -1,0 +1,37 @@
+.loginBackground{
+    background-color: #F8FAFC;
+    height:720px;
+}
+
+.head-logo img{
+    display: flex;
+    margin: 0 auto;
+    width: 300px;
+    padding-top: 20px;
+}
+
+.login-form{
+    background-color: white;
+    text-align: center;
+    border: 1px solid gray;
+    padding: 120px 30px;
+    border-radius:5px;
+}
+
+.loginButton img{
+    width: 30px;
+    height: 30px;
+    margin-right: 55px;
+}
+
+.loginButton button{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    border: 1px solid gray;
+    border-radius: 50px;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color:white;
+}
